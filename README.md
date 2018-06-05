@@ -1,11 +1,11 @@
-# Yalgaar IOS Swift SDK
-Create amazing realtime applications easily with Yalgaar IOS Swift SDK
+# Yalgaar iOS Swift Framework
+Create amazing realtime applications easily with Yalgaar iOS Swift Framework
 
 ## Description
-* IOS Swift sdk support version 8.0 or above
+* iOS Swift Framework support version 8.0 or above
 
 ## Usage
-For use Yalgaar IOS Swift SDK refer [Document](https://www.yalgaar.io/documentation/ios-swift-api)
+For use Yalgaar iOS Swift Framework refer [Document](https://www.yalgaar.io/documentation/ios-swift-api)
 
 ## Communication
 If you need support [Contact](https://www.yalgaar.io/contact-us)
