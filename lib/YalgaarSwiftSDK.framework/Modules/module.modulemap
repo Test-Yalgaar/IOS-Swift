@@ -1,0 +1,11 @@
+framework module YalgaarSwiftSDK {
+  umbrella header "YalgaarSwiftSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module YalgaarSwiftSDK.Swift {
+    header "YalgaarSwiftSDK-Swift.h"
+    requires objc
+}
